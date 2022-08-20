@@ -1,0 +1,15 @@
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\bin\Debug\net6.0\task31.exe
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\bin\Debug\net6.0\task31.deps.json
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\bin\Debug\net6.0\task31.runtimeconfig.json
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\bin\Debug\net6.0\task31.dll
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\bin\Debug\net6.0\task31.pdb
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\task31.csproj.AssemblyReference.cache
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\task31.AssemblyInfoInputs.cache
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\task31.AssemblyInfo.cs
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\task31.csproj.CoreCompileInputs.cache
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\task31.dll
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\refint\task31.dll
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\task31.pdb
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\task31.genruntimeconfig.cache
+C:\Users\kreol\Desktop\GB\С#\Seminar5\task31\obj\Debug\net6.0\ref\task31.dll
